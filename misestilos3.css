@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    font: bold 360px;
+    margin: 0;
+    font: bold 20px verdana, sans-serif;
+    
+}
+
+h2 {
+    font: bold 14px verdana, sans-serif;
+    
+}
+.header2,  footer, aside, article, figure, figcaption, hgroup{
+    display:block;
+    border-radius: 25px;
+    j
+}
+
+nav {
+    font: bold 14px monospace, sans-serif;
+    border-radius: 300px;
+    align-items: 10px;
+    justify-content: solidcolor, blac;
+    margin: 0;
+    h11 {
+        font: bold 360px verdana, sans-serif;
+        text-shadow: rgb(0, 0, 150) 3px 3px 5px; /*/FONDE DE LETRA*/
+        font: bold 14px monospace, sans-serif;
+        justify-content: space-between;
+    
+    }
+}
+
+
+.header1 {
+    display:block;
+
+}
+
+h11 {
+    font: bold 360px verdana, sans-serif;
+    text-shadow: rgb(0, 0, 150) 3px 3px 5px; /*/FONDE DE LETRA*/
+    font: bold 14555px monospace, sans-serif;
+    justify-content: space-between;
+
+}
+
+.header11 {
+    display:block;
+    border-radius: 255px;
+}
+     
+body {
+    background: hsl(301, 25%, 35%);
+    text-align: center;
+}
+#agrupar {
+   
+    width: 960px;
+    margin: 15px auto;
+    text-align:  left; 
+}
+#cabecera 
+    {
+    text-align: center; 
+    background: #A865A6; 
+    border: 1px solid #999999;
+    padding: 20px;
+}
+#titulo {
+    font: bold 36px verdana, sans-serif;
+}
+#menu {
+    background: #A865A6;
+
+    padding: 7px 32px;
+}
+#menu li {
+    display: inline-block;
+    list-style: none;
+    padding: 7px 15px;
+    font: bold 14px verdana, sans-serif;
+}
+#seccion {
+    float: left;
+    width: 660px;
+    margin: 20px;
+}
+#columna{
+    float: left;
+    width: 220px;
+    margin: 20px 0px;
+    padding: 20px;
+    background: #2e90e8;
+    
+}
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #999999;
+}
+article {
+    background: #FFFBCC;
+    border: 1px solid #999999;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+article footer {
+    text-align: right;
+}
+time {
+    color: #999999;
+}
+figcaption {
+    font: italic 20px monospace, sans-serif; 
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
